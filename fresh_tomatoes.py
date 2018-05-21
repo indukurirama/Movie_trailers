@@ -142,7 +142,7 @@ main_page_content = '''
                <h2 style = "color:white;">1983 </h2>
         </div>
         <div class = "box c"onclick = "onc('tB-QGOChuQc')"><img vspace = "30"
-             src = "https://bit.ly/2Iz3jsV style = "width:60%" height = "300"
+             src = "https://bit.ly/2Iz3jsV" style = "width:60%" height = "300"
              hspace = "30" class = "i">
              <h2 style = "color:white;">ENTER THE DRAGON</h2>
         </div>
@@ -157,7 +157,7 @@ main_page_content = '''
               <h2 style = "color:white;">AVENGERS INFINITY WAR</h2>
         </div>
         <div class = "box f"onclick = "onc('jTxAUX_hbJA')"><img vspace = "30"
-              src = "https://bit.ly/2rWEksF" style = "width: 60%"height = 300"
+              src = "https://bit.ly/2IyEku8" style = "width: 60%"height = 300"
               hspace = "30"class = "i">
               <h2 style = "color: white;">The MOnkey king 3</h2>
         </div>
