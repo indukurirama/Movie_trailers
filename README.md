@@ -2,7 +2,7 @@
 
 ## Description
 
-movie trailor app, we can watch trailors on clicking the images
+This project 'Movie Trailer' contains of set of my favourite movie posters.When clicking on the any poster opens the trailer in youtube in the modal box. 
 
 ## stack Used
 
