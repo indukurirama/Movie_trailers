@@ -21,11 +21,11 @@ This project 'Movie Trailer' contains of set of my favourite movie posters.When 
 
 ## Local Development
 
-* Clone the repository
+1 Clone the repository
 
-* Change directory to the Project directory
+2 Change directory to the Project directory
 
-* run the python file on the python shell 3
+3 Run the python file on the python shell 3
 
-* It runs project in modern web browser
+4 It runs project in modern web browser
 
